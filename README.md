@@ -1,5 +1,5 @@
-# Chatbot with OpenAI GPT-3 for Chatbot Course
-This project is a Telegram chatbot that utilizes the OpenAI GPT-3 model for generating responses. It is developed as part of a course on using GPT in chatbots.
+# Chatbot with OpenAI ChatGPT for Chatbot Course
+This project is a Telegram chatbot that utilizes the OpenAI GPT model for generating responses. It is developed as part of a course on using GPT in chatbots.
 
 ## Requirements
 To run the chatbot, you need the following dependencies:
